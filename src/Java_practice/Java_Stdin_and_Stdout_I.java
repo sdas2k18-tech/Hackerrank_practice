@@ -49,8 +49,7 @@ public class Java_Stdin_and_Stdout_I {
         int b = scan.nextInt();
         int c = scan.nextInt();
         scan.close();
-        // Complete this line
-
+        
         System.out.println(a);
         System.out.println(b);
         System.out.println(c);
